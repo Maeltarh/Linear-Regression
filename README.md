@@ -49,3 +49,6 @@ Or:
 ```
 python3 -m pip install json pandas matplotlib numpy subprocess
 ```
+#
+*This project is inspired by the "Linear Regression" assignment from my curriculum at 42 School.*
+
