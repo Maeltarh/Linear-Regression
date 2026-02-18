@@ -13,10 +13,10 @@ def calculate():
     try:
         price = int(price)
     except ValueError:
-        print("ValueError turning prince into a fucking readable number.")
+        print("ValueError turning prince into a readable number.")
         exit()
     if price <= 100:
-        print("Please enter a mileage between 0 and 300 000. We lake the data to help you beyond those values.")
+        print("Please enter a mileage between 0 and 300 000. We lack the data to help you beyond those values.")
         exit()
     print(f"Price is : {price}")
 
