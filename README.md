@@ -35,6 +35,7 @@ python3 estimate.py
 The program will prompt you for a mileage value and then output the estimated car price.
 ## Requirements
 Recent version of python 3
+To use the json file you'll need to at least have "{ }" for it to be recognise as a json
 ### Libraries:
 - json: For handling JSON data.
 - pandas: For data manipulation and analysis.
